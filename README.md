@@ -1,7 +1,15 @@
 # School District Analysis
 
 ## Project Overview 
-A City School System chief data scientist has given the following tasks to complete the school analysis for the district to finalize the upcoming budget funding to the schools: • Create the district summary Dataframe. • Create the school summary Dataframe. • Find the top 5 and bottom 5 performing schools. • Calculate the average math score received by students in each grade level at each school. • Calculate the average reading score received by students in each grade level at each school. • Calculate the school performance based on the spending per student. • Calculate the school performance based on the size of the school. • Calculate the school performance based on the type of school. 
+A City School System chief data scientist has given the following tasks to complete the school analysis for the district to finalize the upcoming budget funding to the schools:
+- Create the district summary Dataframe.
+- Create the school summary Dataframe. 
+- Find the top 5 and bottom 5 performing schools. 
+- Calculate the average math score received by students in each grade level at each school. 
+- Calculate the average reading score received by students in each grade level at each school. 
+- Calculate the school performance based on the spending per student. 
+- Calculate the school performance based on the size of the school. 
+- Calculate the school performance based on the type of school. 
 
 ## Resouces 
 - Data Source : schools_complete.csv , students_complete.csv 
