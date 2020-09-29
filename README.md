@@ -11,17 +11,31 @@ A City School System chief data scientist has given the following tasks to compl
 - Calculate the school performance based on the size of the school. 
 - Calculate the school performance based on the type of school. 
 
-## Resouces 
+## Resources 
 - Data Source : schools_complete.csv , students_complete.csv 
 - Tools : Python 3.7.6, Pandas, Jupyter Notebook 
  
 ## Summary of Analysis
+
+### District Summary
+
+![alt text](https://github.com/ArchanaRohilla/School_District_Analysis/blob/master/images/district_summary.png)
+
+
+### Per School Summary
+
+![alt text](https://github.com/ArchanaRohilla/School_District_Analysis/blob/master/images/per_school_summary.png)
+
+
 1. After creating the district summary and school summary data-frames, the analysis of the district schools shows that: 
 - The top 5 performing schools are charter type whereas the bottom 5 performing schools are district type. The “Thomas High School” is the second amongst the top 5 performing schools. One of the reasons for this is that the charter type schools have lesser number of students than the district type schools. 
 - The school performance based on the spending per student shows that the overall passing percentage is highest for the schools having spending per student < $584. The schools whose spending per student is $645-675 have the lowest overall percentage. 
 - The school performance based on the size of the school shows that the small and medium size schools have the high overall passing percentage than the large size schools. 
 - The school performance based on the type of school shows that the charter type of schools has the higher overall passing percentage than the district type schools. 
  
+
+
+
 2. The grades of the ninth graders at Thomas High School have been changed. The task was to: 
 - Correct the students' names so there are no professional prefixes or suffixes. 
 - Replace the reading and math scores for ninth graders at Thomas High School with NaN. 
