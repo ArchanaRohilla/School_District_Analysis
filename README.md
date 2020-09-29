@@ -22,7 +22,7 @@ A City School System chief data scientist has given the following tasks to compl
 ![alt text](https://github.com/ArchanaRohilla/School_District_Analysis/blob/master/images/district_summary.png)
 
 
-### Per School Summary
+### Per School Summary [head(5)]
 
 ![alt text](https://github.com/ArchanaRohilla/School_District_Analysis/blob/master/images/per_school_summary.png)
 
